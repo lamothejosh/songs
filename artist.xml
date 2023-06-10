@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="artstyle.css"?>
+<Music>
+    <heading> Songs Josh Listens to </heading>
+
+    <song id="Calling My Spirit">
+        <title> Calling My Spirit</title>
+        <artist> Kodak Black </artist>
+        <genre> Rap </genre>
+        <year> 2018 </year>
+    </song>
+
+    <song id="No Time">
+        <title> No Time</title>
+        <artist> Playboi Carti </artist>
+        <genre> Rap </genre>
+        <year> 2018 </year>
+    </song> 
+
+    <song id="Lotus">
+        <title> Lotus</title>
+        <artist> Lil Uzi Vert </artist>
+        <genre> Rap </genre>
+        <year> 2020 </year>
+    </song>
+
+    <song id="Counting Stars">
+        <title> Counting Stars</title>
+        <artist> One Republic </artist>
+        <genre> Pop </genre>
+        <year> 2013 </year>
+    </song>
+
+    <song id="It's Time">
+        <title> It's Time</title>
+        <artist> Imagine Dragons </artist>
+        <genre> Pop </genre>
+        <year> 2012 </year>
+    </song>
+
+    <song id="Dream On">
+        <title> Dream On</title>
+        <artist> Aerosmith </artist>
+        <genre> Rock </genre>
+        <year> 1973 </year>
+    </song>
+
+    <song id="I'm Still Standing">
+        <title> I'm Still Standing</title>
+        <artist> Elton John </artist>
+        <genre> Rock </genre>
+        <year> 1983 </year>
+    </song>
+
+    <song id="Piano Man ">
+        <title> Piano Man</title>
+        <artist> Billy Joel </artist>
+        <genre> Pop </genre>
+        <year> 1973 </year>
+    </song>
+
+    <song id="Longest Time">
+        <title> Longest Time</title>
+        <artist> Billy Joel </artist>
+        <genre> Pop </genre>
+        <year> 1983 </year>
+    </song>
+
+    <song id="It's Still Rock and Roll to me">
+        <title> It's Still Rock and Roll to me</title>
+        <artist> Billy Joel </artist>
+        <genre> Rock </genre>
+        <year> 1980 </year>
+    </song>
+
+    <song id="Sisyphus">
+        <title> Sisyphus</title>
+        <artist> Quadeca </artist>
+        <genre> Rap </genre>
+        <genre> Indie </genre>
+        <year> 2021 </year>
+    </song>
+
+    <song id="Movinglikeazombie">
+        <title> Movinglikeazombie</title>
+        <artist> Eric Doa </artist>
+        <genre> Rap </genre>
+        <genre> Indie </genre>
+        <year> 2020 </year>
+    </song>
+
+   <song id="Beyond Turnt">
+        <title> Beyond Turnt</title>
+        <artist> Babytron </artist>
+        <genre> Rap </genre>
+        <year> 2022 </year>
+    </song>
+
+
+</Music>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<University>
+<school id="Tufts">
+<name> Tufts </name>
+<state> Massachusetts </state>
+<total_stu> 12000 </total_stu>
+<cs_stu> 1500 </cs_stu>
+</school>
+<school id="MIT"> 
+         <name> MIT</name>
+         <state> Massachusetts </state>
+        <total_stu> 13000 </total_stu>
+        <cs_stu> 2200 </cs_stu>
+     </school>
+  <school id="BU"> 
+         <name> BU </name>
+         <state> Massachusetts </state>
+        <total_stu> 20000 </total_stu>
+        <cs_stu> 3000 </cs_stu>
+     </school>
+</University>

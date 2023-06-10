@@ -1,0 +1,41 @@
+
+heading, title, artist, genre, year {
+    display : block;
+    padding: 2px;
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+heading {
+    font-size: 200%;
+    text-align: center;
+    display: block;
+    background-color: aqua;
+    color: palevioletred;
+    font-weight: bolder;
+
+}
+
+title {
+    font-size: medium;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+song {
+    padding: 2px;
+}
+
+artist {
+    font-weight: bold;
+}
+
+artist, genre, year {
+    text-align: center;
+    font-size: small;
+}
+
+music {
+    background-color: black;
+}
